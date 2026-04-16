@@ -1,0 +1,9 @@
+# Secure File Transfer System - User Credentials
+# Format: username:sha256_hashed_password
+# Password for 'meet' is: password123
+# Password for 'sanskar' is: securepass
+# Password for 'admin' is: admin2024
+
+meet:ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f
+sanskar:fbb4a8a163ffa958b4f02bf9cabb30cfefb40de803f2c4c346a9d39b3be1b544
+admin:b8b8eb83374c0bf3b1c3224159f6119dbfff1b7ed6dfecdd80d4e8a895790a34
